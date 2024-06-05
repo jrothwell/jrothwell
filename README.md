@@ -1,4 +1,4 @@
-**I am a generalist software engineer and technical leader**, with almost a decade of experience building & delivering high quality, well-tested, and reliable software in a wide variety of domains, including the public sector, health & SaMD, fintech & banking, and retail.
+**I am a generalist software engineer and architect**, with almost a decade of experience building & delivering high quality, well-tested, and reliable software in a wide variety of domains, including the public sector, health & SaMD, fintech & banking, and retail.
 
 I have been at **[Zühlke](https://zuhlke.com)** in London since 2015. My consultancy projects there have included **mobile applications** in Swift and Kotlin, **backend servers** in Java and Kotlin, **Web apps** using Angular, TypeScript, and JavaScript, and **developer tooling** in Python, Swift, and shell scripts.
 
